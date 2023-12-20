@@ -4,6 +4,11 @@
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
+		},
+		{
+			"name": "apple",
+			"description": "Apple for apple updates",
+			"domain_files": ["apple.txt"]
 		}
 	]
 }
